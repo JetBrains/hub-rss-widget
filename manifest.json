@@ -1,0 +1,14 @@
+{
+  "key": "hub-rss-widget",
+  "name": "Hub RSS widget",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Max Erekhinskiy &lt;max.erekhinskiy@gmail.com&gt;",
+  "products": {
+    "Hub": ">=2018.1",
+    "YouTrack": ">=2018.1"
+  },
+  "capabilities": {
+    "topNavigation": true
+  }
+}

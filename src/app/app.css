@@ -1,0 +1,33 @@
+@value unit, font, font-size from "@jetbrains/ring-ui/components/global/global.css";
+
+:global(.widget-body) {
+  margin: 0;
+  padding: calc(unit * 2);
+
+  background: #fff;
+
+  font-size: font-size;
+}
+
+.widget {
+  composes: font;
+
+  margin: 0;
+  padding: 0;
+}
+
+.widget a {
+  cursor: pointer;
+  text-decoration: none;
+
+  color: #1866c5;
+}
+
+.widget h3 {
+  margin-top: 0;
+}
+
+.widget h3 a,
+.widget h3 a:visited {
+  color: #444;
+}
