@@ -14,7 +14,8 @@
     "lint": "eslint . && npm run stylelint",
     "stylelint": "stylelint --ignore-path .gitignore **/*.css",
     "ci-test": "npm run lint && xvfb-maybe karma start --teamcity",
-    "start": "webpack-dev-server -d --history-api-fallback --inline --hot --colors  --host 0.0.0.0 --port 9010"
+    "start": "webpack-dev-server -d --history-api-fallback --inline --hot --colors  --host 0.0.0.0 --port 9010",
+    "publish-plugin": "echo 1"
   },
   "babel": {
     "presets": "@jetbrains/jetbrains"
