@@ -1,9 +1,9 @@
 {
   "key": "hub-rss-widget",
-  "name": "Hub RSS widget",
+  "name": "RSS widget",
   "version": "1.0.0",
   "description": "Simple RSS widget for JetBrains HUB",
-  "author": "Max Erekhinskiy &lt;max.erekhinskiy@gmail.com&gt;",
+  "author": "Max Erekhinskiy <max.erekhinskiy@gmail.com>",
   "products": {
     "Hub": ">=2018.1",
     "YouTrack": ">=2018.1"
