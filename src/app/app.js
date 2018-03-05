@@ -1,4 +1,3 @@
-import 'babel-polyfill';
 import DashboardAddons from 'hub-dashboard-addons';
 import convert from 'xml-js';
 import React, {Component} from 'react';
