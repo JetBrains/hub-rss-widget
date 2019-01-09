@@ -1,4 +1,5 @@
-## Developing a Hub widget
+## Hub RSS Widget [![obsolete JetBrains project](http://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 The following commands are available:
 
   - `npm test` to launch karma tests
